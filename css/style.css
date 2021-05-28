@@ -1,0 +1,33 @@
+.container {
+    padding: 15%;
+    box-sizing: border-box;
+    align-content: center;
+    
+}
+
+.puck {
+    width: 25%;
+    box-sizing: border-box;
+    text-align: center;
+    float: left;
+    height: 400px;
+    margin: 25px;
+}
+
+.bubba {
+    width: 25%;
+    box-sizing: border-box; 
+    text-align: center;
+    float: left;
+    height: 400px;
+    margin: 25px;
+}
+
+.madrona {
+    width: 25%;
+    box-sizing: border-box; 
+    float: left;
+    text-align: center;
+    height: 400px;
+    margin: 25px;
+}
